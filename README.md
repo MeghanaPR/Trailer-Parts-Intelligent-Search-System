@@ -228,15 +228,6 @@ streamlit run Home.py --server.port 8502
 - **UI/UX Design**: Custom Streamlit interface
 - **Data Processing**: Custom scraping and processing logic
 
-## 📞 Contact Information
-
-For technical support or questions:
-- **Developer**: [Your Name]
-- **Email**: [Your Email]
-- **Project Repository**: [Repository URL]
-
 ---
 
-**Version**: 1.0.0  
-**Last Updated**: [Current Date]  
 **Compatibility**: Python 3.8+, Windows/macOS/Linux 
